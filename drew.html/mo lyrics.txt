@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="drew.js"></script>
+    
+    <title> ENTERTAINMENT </title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+
+</head>
+<body>
+<body id="all">
+<body><div id="ryhme">
+
+    <h1 id="yellow"> ENTERTAINMENT </h1>
+<header > 
+
+
+<div class="topnav" id="mytopnav">
+    <ul>
+   
+   <li><a href="drew.html" >HOME</a></li> 
+   <li><a href="drew1.html">SEARCH</a></li> 
+   <li><a href="movies.html">MOVIES</a></li> 
+   <li><a href="music.html">MUSIC</a></li> 
+  <li> <a href="lyrics.html">LYRICS</a></li> 
+ 
+  <li><a href="charts.html">CHARTS</a></li> 
+</ul>
+</div>
+  <table width="400" border=0 cellpadding=0>
+      <tr>
+          <td style="font-family:Arial, Helvetica, sans-serif;"action="search"
+          accept-charset="utf-8" onsubmit="ffrsults.show(0);"></td>
+      </tr>
+  </table>
+    
+
+</header>
+
+<h1> LYRICS</h1>
